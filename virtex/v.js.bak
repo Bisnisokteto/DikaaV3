@@ -1,0 +1,51 @@
+const v = (prefix) => {
+	return `
+╭──(           Pak Tzy〽️           )
+│•⿻ ${prefix}x
+│•⿻ ${prefix}v1
+│•⿻ ${prefix}hen
+│•⿻ ${prefix}virtex
+│•⿻ ${prefix}bugpc
+│•⿻ ${prefix}buggif
+│•⿻ ${prefix}troliv2
+│•⿻ ${prefix}buglink
+│•⿻ ${prefix}bugpdf
+│•⿻ ${prefix}bugdoc
+│•⿻ ${prefix}vstick1
+│•⿻ ${prefix}vstick2
+│•⿻ ${prefix}vstick3
+│•⿻ ${prefix}bugvn2
+│•⿻ ${prefix}bugtroli
+│•⿻ ${prefix}bughole
+│•⿻ ${prefix}pakdgx
+│•⿻ ${prefix}jadivirus
+│•⿻ ${prefix}bugbrutal
+│•⿻ ${prefix}card
+│•⿻ ${prefix}buglokasi
+│•⿻ ${prefix}bugkontak
+│•⿻ ${prefix}bugliveloc
+│•⿻ ${prefix}jadikatalog
+│•⿻ ${prefix}bugkatalog1
+│•⿻ ${prefix}bugkatalog2
+│•⿻ ${prefix}bugkatalog3
+│•⿻ ${prefix}allbuglokasi
+│•⿻ ${prefix}bugcombine
+│•⿻ ${prefix}bug [jumlah]
+│•⿻ ${prefix}troli [jumlah]
+│•⿻ ${prefix}bgv2 [jumlah]
+│•⿻ ${prefix}bugv2 [jumlah]
+│•⿻ ${prefix}bugpc2 [jumlah]
+│•⿻ ${prefix}bugtext [jumlah]
+│•⿻ ${prefix}buginvite2 [jumlah]
+╰──(           ⿻ 𝐙͢𝐈߫𝐌⃕𝐔͢𝐑߫𝚫🎭𝚾߫𝜩͢𝐍⃕𝐏߫𝚫𝐈 ⿻️           )
+
+┏━━⬣  Thanks To 〽️
+┃ 🔥 Pak Tzy〽️
+┃ 🔥 Hanz OFC〽️
+┃ 🔥 Team Wong Hore
+┃ 🔥 Team V1!!
+┗━━⬣  ⿻ 𝐙͢𝐈߫𝐌⃕𝐔͢𝐑߫𝚫🎭𝚾߫𝜩͢𝐍⃕𝐏߫𝚫𝐈 ⿻
+`
+}
+
+exports.v = v
