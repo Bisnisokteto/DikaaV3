@@ -1228,12 +1228,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/c/XaviorOfc-Bot'
+                                    url: 'https://youtube.com/c/DikaaOfc'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 819-0805-2908'
+                                    phoneNumber: '+62 882-2367-4569'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1267,7 +1267,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/c/XaviorOfc-Bot'
+                                    url: 'https://youtube.com/c/DikaaOfc'
                                 }
                             }, {
                                 quickReplyButton: {
