@@ -2922,7 +2922,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             case 'Grupbot': { m.reply('Jangan lupa masuk ya kak, seru loh kalian bebas ngapaiin aja🧸\nhttps://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv')} break
             
              case 'menu': {
-            anu = `Hallo Bre... 🤗\nSalken Bre, Gua *FanxxzBOT*🤝\nGua Bot WhatsApp MD Bre..\nBot WA MD V3 Dari *DikaaOfc* Bre\nInfo Lanjut Dengerin VN nya Bre`
+            anu = `Hallo Kak\nSaya bot WhatsApp Multi-device\nDan di susun oleh *DikaaOfc*\nApabila kamu menemukan semacam bug harap laporkan ke owner\nGunakan bot dengan bijak🧸`
             let btn = [{
                                 
                                 quickReplyButton: {
