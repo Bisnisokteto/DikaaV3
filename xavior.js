@@ -2802,10 +2802,10 @@ let capt = `⭔ Title: ${judul}
             case 'command':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `Halo Bre... Lagi Gabut\n`,
-                    description: "*Klik Aja Tombol Gabut*",
-                    buttonText: "▪️Gabut▪️",
-                    footerText: "Njir masih dibaca",
+                    title: `Halo Kak... FanxxzBOT Disini🧸\n`,
+                    description: "*Jangan spam ya kak, gunakan bot dengan bijak🧸*",
+                    buttonText: "Klik disini",
+                    footerText: "FanxxzBOT | © 2022",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "👑 Bot By DikaaOfc 👑",
@@ -2817,7 +2817,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "🧸MENU BOT🧸",
+								"title": "MENU BOT",
 								"rows": [
 									{
 										"title": "🧸Grup Menu🧸",
@@ -2891,7 +2891,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										]
 										},	
 										{
-								"title": "🧸Menu lain🧸",
+								"title": "Menu lain",
 								"rows": [
 									{
 										"title": "🧸Sewa Bot🧸",
@@ -2903,7 +2903,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 							]
 							},
 							{
-								"title": "🧸Owner🧸",
+								"title": "Owner",
 								"rows": [
 									{
 										"title": "👑 DikaaOfc 👑",
@@ -2919,7 +2919,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 
             
-            case 'https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv': { m.reply('Jangan lupa masuk ya kak, seru loh kalian bebas ngapaiin aja🧸')} break
+            case 'Grupbot': { m.reply('Jangan lupa masuk ya kak, seru loh kalian bebas ngapaiin aja🧸\nhttps://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv')} break
             
              case 'menu': {
             anu = `Hallo Bre... 🤗\nSalken Bre, Gua *FanxxzBOT*🤝\nGua Bot WhatsApp MD Bre..\nBot WA MD V3 Dari *DikaaOfc* Bre\nInfo Lanjut Dengerin VN nya Bre`
@@ -2929,8 +2929,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                                     displayText: 'Daftar Fitur',
                                     id: 'command'
                             }    }, {quickReplyButton: {
-                                    displayText: '🧸Grup Bot🧸',
-                                    id: 'https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv'}
+                                    displayText: 'Grup Bot',
+                                    id: 'Grupbot'}
                                                                           
                             }]
                          let setbot = db.data.settings[botNumber]
