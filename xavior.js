@@ -852,10 +852,10 @@ xavior.sendMessage(m.chat, { video: smeme, mimetype: 'video/mp4', fileName: `Int
                  break
                  case 'namafotobot': {
                if (!isCreator) throw mess.owner
-               if (!text) throw `Contoh : ${prefix + command} XaviorBot`
+               if (!text) throw `Contoh : ${prefix + command} DikaaOfc`
           global.packname = text.split("|")[0]
           global.author = text.split("|")[1]
-          m.reply(`Awokawowk Lu Bukan Owner Asli Gua bre\n\nOwner Asli Gua *Xavior-Ofc* bre...\n\nMastah Kok Sc gratisan 👻\n\nBeli Bre Biar Fiturnya Berjalan`)
+          m.reply(`hhi kamu bukan owner aku\n\nOwner asli aku *Dikaa-Ofc* \n\nMastah Kok Sc gratisan 🧸\n\nBeli kak Biar Fiturnya Berjalan`)
             }
             break
             case 'namafotobot|subscribe': {
