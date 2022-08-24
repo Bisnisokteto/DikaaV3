@@ -2945,6 +2945,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                         } else if (setbot.templateLocation) {
                         xavior.send5ButLoc(m.chat, anu, global.author, global.thumb, btn)
                         }
+                     }
 break       
      
      
