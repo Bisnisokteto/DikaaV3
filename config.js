@@ -34,7 +34,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 5
 }
-global.thumb = fs.readFileSync('./lib/xavi.jpg')
+global.thumb = fs.readFileSync('./foto/1.jpg')
 global.tutor = fs.readFileSync('./video/intro.mp4')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 global.menu1 = fs.readFileSync('./foto/1.jpg')
