@@ -2944,8 +2944,6 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                         xavior.send5ButMsg(m.chat, anu, global.author, btn)
                         } else if (setbot.templateLocation) {
                         xavior.send5ButLoc(m.chat, anu, global.author, global.thumb, btn)
-                        } tutor = fs.readFileSync('./tutor/selamatdatang.mp3')
-                        xavior.sendMessage(m.chat, {audio: tutor, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
                         }
 break       
      
