@@ -2823,7 +2823,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 listMessage :{
                     title: `Halo Kak... FanxxzBOT Disini🧸\n`,
                     description: "*Jangan spam ya kak, gunakan bot dengan bijak🧸*",
-                    buttonText: "Klik disini",
+                    buttonText: "Tap!",
                     footerText: "FanxxzBOT | © 2022",
                     listType: "SINGLE_SELECT",
                     sections: [{
