@@ -2938,6 +2938,10 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 
             
+
+            case 'igowner':
+            reply('Follow Ig pembuat bot : https://Instagram/cigegerotak')
+            break
             case 'Grupbot': { m.reply('Jangan lupa masuk ya kak, seru loh kalian bebas ngapaiin aja🧸\nhttps://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv')} break
             
              case 'menu': {
